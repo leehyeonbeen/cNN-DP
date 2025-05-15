@@ -1,7 +1,7 @@
 # cNN-DP: Composite neural network with differential propagation
 ![github](https://github.com/hyeonbeenlee/cNN-DP/assets/78078652/58c8f2a1-196f-4fa7-8702-adb31e6aae5d)
 
-Lee, Hyeonbeen and Han, Seongji and Choi, Hee-Sun and Kim, Jin-Gyun, *cNN-DP: Composite Neural Network with Differential Propagation for Impulsive Nonlinear Dynamics.* Available at SSRN: https://ssrn.com/abstract=4296911
+Hyeonbeen Lee, Seongji Han, Hee-Sun Choi, Jin-Gyun Kim, cNN-DP: Composite neural network with differential propagation for impulsive nonlinear dynamics, Journal of Computational Physics, Volume 496, 2024, 112578, ISSN 0021-9991, https://doi.org/10.1016/j.jcp.2023.112578. (https://www.sciencedirect.com/science/article/pii/S0021999123006733)
 ## What is this for?
 > cNN-DP: Composite neural network with differential propagation
 
