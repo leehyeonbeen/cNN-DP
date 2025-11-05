@@ -65,10 +65,14 @@ y,yDot,yDDot=n_dp.predict(input)
 
 ## Citing the paper (BibTeX)
 ```
-@article{lee4296911cnn,
-  title={cNN-DP: Composite Neural Network with Differential Propagation for Impulsive Nonlinear Dynamics},
+@article{lee2024cnn,
+  title={cNN-DP: Composite neural network with differential propagation for impulsive nonlinear dynamics},
   author={Lee, Hyeonbeen and Han, Seongji and Choi, Hee-Sun and Kim, Jin-Gyun},
-  journal={Available at SSRN 4296911}
+  journal={Journal of Computational Physics},
+  volume={496},
+  pages={112578},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
