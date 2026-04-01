@@ -1,4 +1,4 @@
-# cNN-DP: Composite neural network with differential propagation
+# cNN-DP: Composite neural network with differential propagation (JCOMP 2024)
 ![github](https://github.com/hyeonbeenlee/cNN-DP/assets/78078652/58c8f2a1-196f-4fa7-8702-adb31e6aae5d)
 
 Hyeonbeen Lee, Seongji Han, Hee-Sun Choi, Jin-Gyun Kim, cNN-DP: Composite neural network with differential propagation for impulsive nonlinear dynamics, Journal of Computational Physics, Volume 496, 2024, 112578, ISSN 0021-9991, https://doi.org/10.1016/j.jcp.2023.112578. (https://www.sciencedirect.com/science/article/pii/S0021999123006733)
