@@ -81,7 +81,7 @@ The table below lists $R^2$ scores of test predictions ($\mathcal{N}_C$ predicts
 | Lorenz | $U$ / $\dot U$ / $\ddot U$ | – / – / 0.075 | −394.7 / 0.434 / 0.629 | **0.956 / 0.996 / 0.998** |
 | Earthquake (Antelope Valley 2021) | $y$ / $\dot y$ / $\ddot y$ | – / – / 0.144 | −2.3e5 / −14.7 / 0.702 | **0.978 / 0.998 / 0.999** |
 
-On the 204-DOF multibody trailer model, cNN-DP reaches a mean STFT-MSE of **2.55e-2**, compared with 8.89e-2 for $\mathcal{N}_C$ and 3.73e-2 for $\mathcal{N}_{AG}$.
+On the 204-DOF multibody trailer model, cNN-DP reaches a mean STFT-MSE of **2.55e-2**, compared with 8.89e-2 for $`\mathcal{N}_{C}`$ and 3.73e-2 for $`\mathcal{N}_{AG}`$.
 
 **Computational cost.** The ratios below are relative to $\mathcal{N}_C$, normalized per parameter (RTX 3060 Ti, batch size 256).
 
