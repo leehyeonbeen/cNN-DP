@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/J.%20Comput.%20Phys.-496%20(2024)%20112578-red)](https://www.sciencedirect.com/science/article/pii/S0021999123006733)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jcp.2023.112578-informational)](https://doi.org/10.1016/j.jcp.2023.112578)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Hits](https://hits.sh/github.com/leehyeonbeen/cNN-DP.svg?view=today-total&label=Hits&extraCount=1000&color=dfb317)](https://hits.sh/github.com/leehyeonbeen/cNN-DP/)
+[![Hits](https://hits.sh/github.com/leehyeonbeen/cNN-DP.svg?view=total&label=Hits&extraCount=1000&color=dfb317)](https://hits.sh/github.com/leehyeonbeen/cNN-DP/)
 
 ![cNN-DP](https://github.com/hyeonbeenlee/cNN-DP/assets/78078652/58c8f2a1-196f-4fa7-8702-adb31e6aae5d)
 
