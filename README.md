@@ -144,10 +144,10 @@ python examples/lorenz/plot.py
 | Script | What it does | Output |
 |---|---|---|
 | `datagen.py` | Solves the ODE (implicit RK, `scipy.integrate.solve_ivp`) and computes analytic derivatives | `data/*.csv` |
-| `train.py` | Trains $\mathcal{N}_C$ / $\mathcal{N}_{AG}$ / $\mathcal{N}_{DP}$ | `models/<example>/*.pt` |
+| `train.py` | Trains $`\mathcal{N}_C`$ / $`\mathcal{N}_{AG}`$ / $`\mathcal{N}_{DP}`$ | `models/<example>/*.pt` |
 | `plot.py` | Draws loss curves, trajectories, and error plots | `figures/` |
 
-`plot.py` compares all three models, so first train $\mathcal{N}_C$, $\mathcal{N}_{AG}$, and $\mathcal{N}_{DP}$ by uncommenting `train_n_c()`, `train_n_ag()`, and `train_n_dp()` under `__main__` in `train.py`.
+`plot.py` compares all three models, so first train $`\mathcal{N}_C`$, $`\mathcal{N}_{AG}`$, and $`\mathcal{N}_{DP}`$ by uncommenting `train_n_c()`, `train_n_ag()`, and `train_n_dp()` under `__main__` in `train.py`.
 
 The earthquake, double-pendulum, and trailer examples (Sec. 4) are not included in this repository.
 
