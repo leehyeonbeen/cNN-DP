@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Hits](https://hits.sh/github.com/leehyeonbeen/cNN-DP.svg?view=total&label=Hits&extraCount=1000&color=dfb317)](https://hits.sh/github.com/leehyeonbeen/cNN-DP/)
 
-![cNN-DP](https://github.com/hyeonbeenlee/cNN-DP/assets/78078652/58c8f2a1-196f-4fa7-8702-adb31e6aae5d)
+![github](https://github.com/KHU-MASLAB/cNN-DP/assets/78078652/b37e129f-4cef-4250-b958-12ada1e5e688)
 
 This is our official PyTorch implementation of
 
